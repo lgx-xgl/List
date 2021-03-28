@@ -1,6 +1,5 @@
 # List
 
-## 	You can go to the main branches to see my program.
+## 	你可以去main分支看我的程序
 
-## Or you can go to the master branches to see the firm.
-
+## 或者去master分支看
